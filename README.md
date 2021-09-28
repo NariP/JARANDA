@@ -77,7 +77,7 @@ yarn start
 
 - [x] 관리자 페이지 UI 작업
 - [x] DataTable 컴포넌트 구현
-- [x] Pagenation 구현
+- [x] Pagination 구현
 - [x] 검색 기능 구현
 - [x] 검색 기능 debouncing 적용
 - [x] DropDown 구현
